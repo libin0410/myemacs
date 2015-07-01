@@ -1,0 +1,194 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Jul  1 16:32:14 2015
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("write" "nfho_rsv" "nfho_"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs" "~/emacs/kimchi/ABOUT-NLS" "~/emacs/kimchi/AUTHORS" "~/emacs/kimchi/docs/kimchi-guest.png" "~/emacs/kimchi/docs/kimchi-login.png" "~/libin/ipsec_test_send/ipsec_test_send.c" "~/libin/test/ipsec_rsv/Makefile" "~/libin/test/ipsec_send/Makefile" "~/libin/test/gtk_server.c" "~/libin/test/gtk_server1.c" "~/libin/test/Makefile" "~/libin/test/ipsec_send/ipsec_send.c" "~/.emacs" "~/emacs/kimchi/ABOUT-NLS" "~/emacs/kimchi/AUTHORS" "~/emacs/kimchi/docs/kimchi-guest.png" "~/emacs/kimchi/docs/kimchi-login.png" "~/libin/ipsec_test_send/ipsec_test_send.c" "~/libin/test/ipsec_rsv/Makefile" "~/libin/test/ipsec_send/Makefile" "~/libin/test/gtk_server.c" "~/libin/test/gtk_server1.c" "~/libin/test/Makefile" "~/libin/test/ipsec_send/ipsec_send.c" "~/.emacs" "~/emacs/kimchi/ABOUT-NLS" "~/emacs/kimchi/AUTHORS" "~/emacs/kimchi/docs/kimchi-guest.png" "~/emacs/kimchi/docs/kimchi-login.png" "~/libin/ipsec_test_send/ipsec_test_send.c" "~/libin/test/ipsec_rsv/Makefile" "~/libin/test/ipsec_send/Makefile" "~/libin/test/gtk_server.c" "~/libin/test/gtk_server1.c" "~/libin/test/Makefile" "~/libin/test/ipsec_send/ipsec_send.c" "~/.emacs" "~/emacs/kimchi/ABOUT-NLS" "~/emacs/kimchi/AUTHORS" "~/emacs/kimchi/docs/kimchi-guest.png" "~/emacs/kimchi/docs/kimchi-login.png" "~/libin/ipsec_test_send/ipsec_test_send.c" "~/libin/test/ipsec_rsv/Makefile" "~/libin/test/ipsec_send/Makefile" "~/libin/test/gtk_server.c" "~/libin/test/gtk_server1.c" "~/libin/test/Makefile" "~/libin/test/ipsec_send/ipsec_send.c" "~/libin/test/Makefile" "~/libin/test/gtk_server1.c" "~/.emacs" "~/emacs/kimchi/ABOUT-NLS" "~/emacs/kimchi/AUTHORS" "~/emacs/kimchi/docs/kimchi-guest.png" "~/emacs/kimchi/docs/kimchi-login.png" "~/libin/ipsec_test_send/ipsec_test_send.c" "~/libin/test/ipsec_rsv/Makefile" "~/libin/test/ipsec_send/Makefile" "~/libin/test/Makefile" "~/libin/test/gtk_server.c" "~/libin/test/gtk_server1.c" "~/libin/test/ipsec_send/ipsec_send.c" "~/.emacs" "~/emacs/kimchi/ABOUT-NLS" "~/emacs/kimchi/AUTHORS" "~/emacs/kimchi/docs/kimchi-guest.png" "~/emacs/kimchi/docs/kimchi-login.png" "~/libin/ipsec_test_send/ipsec_test_send.c" "~/libin/test/ipsec_rsv/Makefile" "~/libin/test/ipsec_send/Makefile" "~/libin/test/gtk_server.c" "~/libin/test/gtk_server1.c" "~/libin/test/Makefile" "~/libin/test/ipsec_send/ipsec_send.c" "~/.emacs" "~/emacs/kimchi/ABOUT-NLS" "~/emacs/kimchi/AUTHORS" "~/emacs/kimchi/docs/kimchi-guest.png" "~/emacs/kimchi/docs/kimchi-login.png" "~/libin/ipsec_test_send/ipsec_test_send.c" "~/libin/test/ipsec_rsv/Makefile" "~/libin/test/ipsec_send/Makefile" "~/libin/test/gtk_server.c" "~/libin/test/gtk_server1.c" "~/libin/test/Makefile" "~/libin/test/ipsec_send/ipsec_send.c" "~/.emacs" "~/emacs/kimchi/ABOUT-NLS" "~/emacs/kimchi/AUTHORS" "~/emacs/kimchi/docs/kimchi-guest.png" "~/emacs/kimchi/docs/kimchi-login.png" "~/libin/ipsec_test_send/ipsec_test_send.c" "~/libin/test/ipsec_rsv/Makefile" "~/libin/test/Makefile" "~/libin/test/ipsec_send/Makefile" "~/libin/test/ipsec_send/ipsec_send.c" "~/libin/test/gtk_server.c" "~/libin/test/gtk_server1.c" "/usr/include/asm-generic/ioctls.h" "/usr/include/x86_64-linux-gnu/asm/ioctls.h" "/usr/include/x86_64-linux-gnu/bits/mman-linux.h" "/usr/include/x86_64-linux-gnu/bits/fcntl-linux.h" "/usr/include/x86_64-linux-gnu/sys/ttydefaults.h" "/usr/include/x86_64-linux-gnu/bits/ioctl-types.h" "/usr/include/x86_64-linux-gnu/bits/ioctls.h" "/usr/include/x86_64-linux-gnu/bits/mman.h" "/usr/include/linux/i2c.h" "/usr/include/x86_64-linux-gnu/bits/fcntl.h" "/usr/include/x86_64-linux-gnu/sys/ioctl.h" "/usr/include/x86_64-linux-gnu/sys/mman.h" "/usr/include/linux/fb.h" "/usr/include/fcntl.h" "/usr/include/asm-generic/errno-base.h" "/usr/include/asm-generic/errno.h" "/usr/include/x86_64-linux-gnu/asm/errno.h" "/usr/include/linux/errno.h" "~/libin/test/gtk_server1.c" "~/libin/test/ipsec_send/Makefile" "~/.emacs" "~/emacs/kimchi/ABOUT-NLS" "~/emacs/kimchi/AUTHORS" "~/emacs/kimchi/docs/kimchi-guest.png" "~/emacs/kimchi/docs/kimchi-login.png" "~/libin/ipsec_test_send/ipsec_test_send.c" "~/libin/test/Makefile" "~/libin/test/gtk_server.c" "~/libin/test/ipsec_rsv/Makefile" "~/libin/test/ipsec_send/ipsec_send.c" "~/libin/test/ipsec_send/Makefile" "~/.emacs" "~/emacs/kimchi/ABOUT-NLS" "~/emacs/kimchi/AUTHORS" "~/emacs/kimchi/docs/kimchi-guest.png" "~/emacs/kimchi/docs/kimchi-login.png" "~/libin/ipsec_test_send/ipsec_test_send.c" "~/libin/test/Makefile" "~/libin/test/gtk_server.c" "~/libin/test/ipsec_rsv/Makefile" "~/libin/test/ipsec_send/ipsec_send.c" "~/libin/test/ipsec_send/Makefile" "/usr/include/linux/pci_regs.h" "/usr/include/linux/pci.h" "~/‘ÖÜ‘Ãô‘Ðùipsec_demo/ipsec_rcv/Makefile" "~/libin/test/ipsec_send/ipsec_send.c" "~/libin/test/ipsec_send/Makefile" "~/libin/test/ipsec_rsv/Makefile"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/ubuntu/libin/test/ipsec_send/Makefile"
+  "Makefile<3>"
+  'makefile-gmake-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode ecb-minor-mode linum-mode)
+  20
+  '(208 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/libin/test/ipsec_send/ipsec_send.c"
+  "ipsec_send.c"
+  'c-mode
+  '(abbrev-mode senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode ecb-minor-mode linum-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/libin/test/Makefile"
+  "Makefile"
+  'makefile-gmake-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode ecb-minor-mode linum-mode)
+  98
+  '(98 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/libin/test/gtk_server1.c"
+  "gtk_server1.c"
+  'c-mode
+  '(abbrev-mode senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode ecb-minor-mode linum-mode)
+  5072
+  '(5072 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/libin/test/gtk_server.c"
+  "gtk_server.c"
+  'c-mode
+  '(abbrev-mode senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode ecb-minor-mode linum-mode)
+  2495
+  '(2495 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/libin/test/ipsec_rsv/Makefile"
+  "Makefile<2>"
+  'makefile-gmake-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode ecb-minor-mode linum-mode)
+  19
+  '(19 nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/libin/ipsec_test_send/ipsec_test_send.c"
+  "ipsec_test_send.c"
+  'c-mode
+  '(abbrev-mode senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode ecb-minor-mode linum-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "*info*"
+  'Info-mode
+  '(ecb-minor-mode linum-mode)
+  1435
+  '(1 nil)
+  t
+  '("/usr/share/info/find" "Top" ((history ("dir" "Top" 947) ("/home/ubuntu/.emacs.d/site-lisp/ecb-2.40/info-help/ecb.info" "Top" 11806))))
+  '((tab-width . 8) (buffer-file-coding-system . iso-latin-1-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/emacs/kimchi/docs/kimchi-login.png"
+  "kimchi-login.png"
+  'image-mode
+  '(ecb-minor-mode linum-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . no-conversion) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/emacs/kimchi/docs/kimchi-guest.png"
+  "kimchi-guest.png"
+  'image-mode
+  '(ecb-minor-mode linum-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . no-conversion) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/emacs/kimchi/AUTHORS"
+  "AUTHORS"
+  'fundamental-mode
+  '(ecb-minor-mode linum-mode)
+  1211
+  '(1211 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/emacs/kimchi/ABOUT-NLS"
+  "ABOUT-NLS"
+  'fundamental-mode
+  '(ecb-minor-mode linum-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "backup"
+  'dired-mode
+  '(ecb-minor-mode linum-mode)
+  227
+  '(nil nil)
+  t
+  '("/home/ubuntu/libin/backup/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "kimchi"
+  'dired-mode
+  '(ecb-minor-mode linum-mode)
+  234
+  '(nil nil)
+  t
+  '("/home/ubuntu/libin/kimchi/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "*info-browse-tmp*"
+  'Info-mode
+  '(ecb-minor-mode linum-mode)
+  20010
+  '(nil nil)
+  t
+  '("dir" "Top" ((history ("dir" "Top" 20010) ("dir" "Top" 20010) ("dir" "Top" 20010) ("dir" "Top" 20010) ("dir" "Top" 20010) ("dir" "Top" 20010) ("dir" "Top" 20010) ("dir" "Top" 20010) ("dir" "Top" 20010) ("dir" "Top" 20010))))
+  '((tab-width . 8) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/home/ubuntu/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode ecb-minor-mode linum-mode)
+  2315
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
